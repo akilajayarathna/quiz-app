@@ -1,39 +1,15 @@
 import { useState, useEffect } from 'react'
 import './App.css'
+import securityQuestions from "./data/securityQuestions.json";
 
-const questions = [
-  {
-    question: "What is the capital of France?",
-    options: ["London", "Berlin", "Paris", "Madrid"],
-    answer: "Paris"
-  },
-  {
-    question: "How many planets are in our solar system?",
-    options: ["7", "8", "9", "10"],
-    answer: "8"
-  },
-  {
-    question: "What is the largest ocean on Earth?",
-    options: ["Atlantic", "Indian", "Arctic", "Pacific"],
-    answer: "Pacific"
-  },
-  {
-    question: "How many sides does a hexagon have?",
-    options: ["5", "6", "7", "8"],
-    answer: "6"
-  },
-  {
-    question: "What is the fastest land animal?",
-    options: ["Lion", "Horse", "Cheetah", "Leopard"],
-    answer: "Cheetah"
-  }
-];
+const questions = securityQuestions;
+
 
 function QuizApp() {
   const [currentQuestion,setCurrentQuestion] = useState(0)
   const [score,setScore] = useState(0)
   const [isFinished,setIsFinished] = useState(false)
-  const [timeLeft,setTimeLeft] = useState(10)
+  const [timeLeft,setTimeLeft] = useState(20)
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -45,7 +21,7 @@ function QuizApp() {
               else{
                 setCurrentQuestion(c => c+1)
               }
-          return 10
+          return 20
         }
         else{
           return s-1
@@ -68,7 +44,7 @@ function QuizApp() {
               else{
                 setCurrentQuestion(c => c+1)
               }
-              setTimeLeft(10)
+              setTimeLeft(20)
   }
 
   const wrapperClass = 'min-h-screen bg-green-50 flex items-center justify-center flex-col'

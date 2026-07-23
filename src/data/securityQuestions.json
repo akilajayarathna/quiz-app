@@ -1,0 +1,2032 @@
+[
+  {
+    "question": "What is the main purpose of Information Security?",
+    "options": [
+      "To protect information from unauthorized access, modification, and destruction",
+      "To increase internet speed",
+      "To create computer programs",
+      "To replace hardware components"
+    ],
+    "answer": "To protect information from unauthorized access, modification, and destruction"
+  },
+  {
+    "question": "What is data?",
+    "options": [
+      "Raw facts and figures without processing",
+      "Processed meaningful output",
+      "A security policy",
+      "An encryption algorithm"
+    ],
+    "answer": "Raw facts and figures without processing"
+  },
+  {
+    "question": "What is information?",
+    "options": [
+      "Processed and meaningful data",
+      "Unorganized facts",
+      "A computer virus",
+      "A network device"
+    ],
+    "answer": "Processed and meaningful data"
+  },
+  {
+    "question": "What does CIA Triad represent in Information Security?",
+    "options": [
+      "Confidentiality, Integrity, Availability",
+      "Control, Internet, Access",
+      "Computer, Information, Authentication",
+      "Confidentiality, Internet, Authorization"
+    ],
+    "answer": "Confidentiality, Integrity, Availability"
+  },
+  {
+    "question": "Which CIA principle ensures that information is only accessible to authorized users?",
+    "options": [
+      "Confidentiality",
+      "Integrity",
+      "Availability",
+      "Accountability"
+    ],
+    "answer": "Confidentiality"
+  },
+  {
+    "question": "Which CIA principle ensures that data is accurate and not modified without authorization?",
+    "options": [
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Authentication"
+    ],
+    "answer": "Integrity"
+  },
+  {
+    "question": "Which CIA principle ensures systems and information are available when required?",
+    "options": [
+      "Availability",
+      "Confidentiality",
+      "Integrity",
+      "Authorization"
+    ],
+    "answer": "Availability"
+  },
+  {
+    "question": "Authentication answers which question?",
+    "options": [
+      "Who are you?",
+      "What can you do?",
+      "Where are you located?",
+      "How much data do you have?"
+    ],
+    "answer": "Who are you?"
+  },
+  {
+    "question": "Authorization determines:",
+    "options": [
+      "What actions a user is allowed to perform",
+      "The identity of a user",
+      "The encryption method used",
+      "The network speed"
+    ],
+    "answer": "What actions a user is allowed to perform"
+  },
+  {
+    "question": "Accountability in information security means:",
+    "options": [
+      "Tracking actions performed by users",
+      "Encrypting all data",
+      "Blocking all users",
+      "Creating passwords"
+    ],
+    "answer": "Tracking actions performed by users"
+  },
+  {
+    "question": "A weakness in a system that can be exploited by attackers is called:",
+    "options": [
+      "Vulnerability",
+      "Asset",
+      "Control",
+      "Policy"
+    ],
+    "answer": "Vulnerability"
+  },
+  {
+    "question": "A possible cause of damage to an information system is called:",
+    "options": [
+      "Threat",
+      "Availability",
+      "Authentication",
+      "Encryption"
+    ],
+    "answer": "Threat"
+  },
+  {
+    "question": "Risk in information security is commonly based on:",
+    "options": [
+      "Threat exploiting a vulnerability causing impact",
+      "Number of computers in a network",
+      "Amount of stored data",
+      "Internet connection speed"
+    ],
+    "answer": "Threat exploiting a vulnerability causing impact"
+  },
+  {
+    "question": "Which of the following is an information asset?",
+    "options": [
+      "Customer database",
+      "Keyboard cable",
+      "Computer wallpaper",
+      "Mouse pad"
+    ],
+    "answer": "Customer database"
+  },
+  {
+    "question": "What is encryption?",
+    "options": [
+      "Converting readable data into unreadable format",
+      "Deleting data permanently",
+      "Copying files",
+      "Increasing storage space"
+    ],
+    "answer": "Converting readable data into unreadable format"
+  },
+  {
+    "question": "What is decryption?",
+    "options": [
+      "Converting encrypted data back into readable form",
+      "Destroying encrypted data",
+      "Creating malware",
+      "Blocking network traffic"
+    ],
+    "answer": "Converting encrypted data back into readable form"
+  },
+  {
+    "question": "Symmetric encryption uses:",
+    "options": [
+      "The same key for encryption and decryption",
+      "Two different public keys",
+      "No key",
+      "Only biometric authentication"
+    ],
+    "answer": "The same key for encryption and decryption"
+  },
+  {
+    "question": "Which is an example of symmetric encryption algorithm?",
+    "options": [
+      "AES",
+      "RSA",
+      "ECC",
+      "Diffie-Hellman"
+    ],
+    "answer": "AES"
+  },
+  {
+    "question": "The main disadvantage of symmetric encryption is:",
+    "options": [
+      "Key distribution problem",
+      "It cannot encrypt data",
+      "It is always slower",
+      "It does not use keys"
+    ],
+    "answer": "Key distribution problem"
+  },
+  {
+    "question": "Asymmetric encryption uses:",
+    "options": [
+      "Public key and private key pair",
+      "Only one secret key",
+      "No encryption key",
+      "A password only"
+    ],
+    "answer": "Public key and private key pair"
+  },
+  {
+    "question": "Which algorithm is an example of asymmetric encryption?",
+    "options": [
+      "RSA",
+      "AES",
+      "DES",
+      "3DES"
+    ],
+    "answer": "RSA"
+  },
+  {
+    "question": "In asymmetric encryption, the public key is used for:",
+    "options": [
+      "Encryption or verification",
+      "Keeping secrets only",
+      "Deleting messages",
+      "Generating malware"
+    ],
+    "answer": "Encryption or verification"
+  },
+  {
+    "question": "Hybrid encryption combines:",
+    "options": [
+      "Symmetric and asymmetric encryption",
+      "Firewall and antivirus",
+      "Password and username",
+      "Hardware and software"
+    ],
+    "answer": "Symmetric and asymmetric encryption"
+  },
+  {
+    "question": "Why is hybrid encryption used?",
+    "options": [
+      "To combine speed of symmetric encryption with security of asymmetric encryption",
+      "To remove encryption completely",
+      "To increase file size",
+      "To avoid using keys"
+    ],
+    "answer": "To combine speed of symmetric encryption with security of asymmetric encryption"
+  },
+  {
+    "question": "Hashing is mainly used for:",
+    "options": [
+      "Integrity verification and password storage",
+      "Increasing network speed",
+      "Compressing videos",
+      "Creating user accounts"
+    ],
+    "answer": "Integrity verification and password storage"
+  },
+  {
+    "question": "A hash function is:",
+    "options": [
+      "A one-way mathematical function",
+      "A reversible encryption method",
+      "A firewall rule",
+      "A network protocol"
+    ],
+    "answer": "A one-way mathematical function"
+  },
+  {
+    "question": "Digital signatures provide:",
+    "options": [
+      "Authentication, integrity, and non-repudiation",
+      "Only confidentiality",
+      "Only availability",
+      "Only compression"
+    ],
+    "answer": "Authentication, integrity, and non-repudiation"
+  },
+  {
+    "question": "Non-repudiation means:",
+    "options": [
+      "A sender cannot deny sending a message",
+      "A message cannot be encrypted",
+      "A user cannot login",
+      "A system cannot restart"
+    ],
+    "answer": "A sender cannot deny sending a message"
+  },
+  {
+    "question": "PKI stands for:",
+    "options": [
+      "Public Key Infrastructure",
+      "Private Key Internet",
+      "Protected Knowledge Interface",
+      "Public Knowledge Information"
+    ],
+    "answer": "Public Key Infrastructure"
+  },
+  {
+    "question": "A Certificate Authority (CA) is responsible for:",
+    "options": [
+      "Issuing and managing digital certificates",
+      "Creating malware",
+      "Blocking websites",
+      "Managing passwords only"
+    ],
+    "answer": "Issuing and managing digital certificates"
+  },
+  {
+    "question": "Steganography is the technique of:",
+    "options": [
+      "Hiding information inside another file or medium",
+      "Encrypting passwords only",
+      "Scanning networks",
+      "Removing viruses"
+    ],
+    "answer": "Hiding information inside another file or medium"
+  },
+  {
+    "question": "What is malware?",
+    "options": [
+      "Malicious software designed to harm or exploit systems",
+      "Software used only for backups",
+      "A network security device",
+      "A programming language"
+    ],
+    "answer": "Malicious software designed to harm or exploit systems"
+  },
+  {
+    "question": "Which of the following is NOT a type of malware?",
+    "options": [
+      "Firewall",
+      "Virus",
+      "Worm",
+      "Trojan"
+    ],
+    "answer": "Firewall"
+  },
+  {
+    "question": "A malware that attaches itself to another program and requires user execution is called:",
+    "options": [
+      "Virus",
+      "Worm",
+      "Firewall",
+      "Rootkit"
+    ],
+    "answer": "Virus"
+  },
+  {
+    "question": "A worm differs from a virus because a worm:",
+    "options": [
+      "Can spread automatically without user interaction",
+      "Requires a host file to spread",
+      "Cannot damage systems",
+      "Only affects hardware"
+    ],
+    "answer": "Can spread automatically without user interaction"
+  },
+  {
+    "question": "A Trojan horse is:",
+    "options": [
+      "Malware disguised as legitimate software",
+      "A network monitoring tool",
+      "An encryption algorithm",
+      "A backup system"
+    ],
+    "answer": "Malware disguised as legitimate software"
+  },
+  {
+    "question": "Ransomware mainly:",
+    "options": [
+      "Encrypts data and demands payment",
+      "Improves system performance",
+      "Creates user accounts",
+      "Blocks advertisements"
+    ],
+    "answer": "Encrypts data and demands payment"
+  },
+  {
+    "question": "The main purpose of ransomware is:",
+    "options": [
+      "Financial extortion",
+      "Improving security",
+      "Creating backups",
+      "Updating software"
+    ],
+    "answer": "Financial extortion"
+  },
+  {
+    "question": "A rootkit is designed to:",
+    "options": [
+      "Hide malicious activities and maintain unauthorized access",
+      "Protect a computer from viruses",
+      "Encrypt user passwords",
+      "Increase internet speed"
+    ],
+    "answer": "Hide malicious activities and maintain unauthorized access"
+  },
+  {
+    "question": "A bot is:",
+    "options": [
+      "A compromised computer controlled remotely by an attacker",
+      "A firewall rule",
+      "A type of encryption key",
+      "A security policy"
+    ],
+    "answer": "A compromised computer controlled remotely by an attacker"
+  },
+  {
+    "question": "A group of infected computers controlled by an attacker is called:",
+    "options": [
+      "Botnet",
+      "Firewall",
+      "VPN",
+      "Sandbox"
+    ],
+    "answer": "Botnet"
+  },
+  {
+    "question": "A logic bomb is malware that:",
+    "options": [
+      "Activates when a specific condition or time occurs",
+      "Always runs immediately",
+      "Only affects networks",
+      "Improves system security"
+    ],
+    "answer": "Activates when a specific condition or time occurs"
+  },
+  {
+    "question": "Adware mainly displays:",
+    "options": [
+      "Unwanted advertisements",
+      "Encryption keys",
+      "Security reports",
+      "Backup files"
+    ],
+    "answer": "Unwanted advertisements"
+  },
+  {
+    "question": "PUA stands for:",
+    "options": [
+      "Potentially Unwanted Application",
+      "Protected User Access",
+      "Public Utility Application",
+      "Private User Authentication"
+    ],
+    "answer": "Potentially Unwanted Application"
+  },
+  {
+    "question": "Which of the following helps prevent malware infections?",
+    "options": [
+      "Keeping software updated",
+      "Using weak passwords",
+      "Opening unknown attachments",
+      "Disabling security tools"
+    ],
+    "answer": "Keeping software updated"
+  },
+  {
+    "question": "Social Engineering attacks mainly target:",
+    "options": [
+      "Human behavior and trust",
+      "Computer processors",
+      "Hard disk capacity",
+      "Network cables"
+    ],
+    "answer": "Human behavior and trust"
+  },
+  {
+    "question": "Phishing is an attack that uses:",
+    "options": [
+      "Fake emails or websites to steal information",
+      "Physical destruction of computers",
+      "Encryption algorithms",
+      "Hardware replacement"
+    ],
+    "answer": "Fake emails or websites to steal information"
+  },
+  {
+    "question": "Spear phishing targets:",
+    "options": [
+      "A specific individual or organization",
+      "All internet users randomly",
+      "Only computer hardware",
+      "Network cables"
+    ],
+    "answer": "A specific individual or organization"
+  },
+  {
+    "question": "Whaling is a type of phishing attack targeting:",
+    "options": [
+      "High-level executives",
+      "Network devices",
+      "Antivirus software",
+      "Students only"
+    ],
+    "answer": "High-level executives"
+  },
+  {
+    "question": "Smishing is phishing performed through:",
+    "options": [
+      "SMS messages",
+      "Voice calls",
+      "Physical access cards",
+      "Network packets"
+    ],
+    "answer": "SMS messages"
+  },
+  {
+    "question": "Vishing is phishing performed through:",
+    "options": [
+      "Voice calls",
+      "USB devices",
+      "Web servers",
+      "Firewalls"
+    ],
+    "answer": "Voice calls"
+  },
+  {
+    "question": "Impersonation in social engineering means:",
+    "options": [
+      "Pretending to be another person or organization",
+      "Encrypting data",
+      "Scanning networks",
+      "Creating backups"
+    ],
+    "answer": "Pretending to be another person or organization"
+  },
+  {
+    "question": "An attacker pretending to be an IT administrator to obtain passwords is an example of:",
+    "options": [
+      "Impersonation",
+      "Hashing",
+      "Encryption",
+      "DDoS"
+    ],
+    "answer": "Impersonation"
+  },
+  {
+    "question": "Baiting uses:",
+    "options": [
+      "A tempting offer or object to trick victims",
+      "A firewall rule",
+      "A security certificate",
+      "A backup server"
+    ],
+    "answer": "A tempting offer or object to trick victims"
+  },
+  {
+    "question": "Leaving an infected USB drive labeled as 'Salary Details' is an example of:",
+    "options": [
+      "Baiting",
+      "Encryption",
+      "Authentication",
+      "Patching"
+    ],
+    "answer": "Baiting"
+  },
+  {
+    "question": "Tailgating is:",
+    "options": [
+      "Following an authorized person into a restricted area",
+      "Sending phishing emails",
+      "Cracking passwords",
+      "Encrypting files"
+    ],
+    "answer": "Following an authorized person into a restricted area"
+  },
+  {
+    "question": "Shoulder surfing involves:",
+    "options": [
+      "Observing someone's screen or keyboard to steal information",
+      "Scanning network traffic",
+      "Creating malware",
+      "Blocking websites"
+    ],
+    "answer": "Observing someone's screen or keyboard to steal information"
+  },
+  {
+    "question": "Dumpster diving involves:",
+    "options": [
+      "Searching discarded materials for sensitive information",
+      "Breaking encryption",
+      "Monitoring servers",
+      "Creating firewalls"
+    ],
+    "answer": "Searching discarded materials for sensitive information"
+  },
+  {
+    "question": "The best defense against social engineering is:",
+    "options": [
+      "Security awareness training",
+      "Disabling all networks",
+      "Removing all passwords",
+      "Using older software"
+    ],
+    "answer": "Security awareness training"
+  },
+  {
+    "question": "A common sign of phishing emails is:",
+    "options": [
+      "Urgent requests for sensitive information",
+      "Official security certificates",
+      "Regular software updates",
+      "Encrypted communication"
+    ],
+    "answer": "Urgent requests for sensitive information"
+  },
+  {
+    "question": "What is the main purpose of Network Security?",
+    "options": [
+      "Protecting networks and data from unauthorized access and attacks",
+      "Increasing computer screen resolution",
+      "Creating programming languages",
+      "Replacing computer hardware"
+    ],
+    "answer": "Protecting networks and data from unauthorized access and attacks"
+  },
+  {
+    "question": "A threat vector is:",
+    "options": [
+      "A method or path used by attackers to compromise a system",
+      "A type of encryption algorithm",
+      "A hardware component",
+      "A backup method"
+    ],
+    "answer": "A method or path used by attackers to compromise a system"
+  },
+  {
+    "question": "Which of the following is a common threat vector?",
+    "options": [
+      "Phishing email",
+      "Strong password",
+      "Firewall rule",
+      "Data backup"
+    ],
+    "answer": "Phishing email"
+  },
+  {
+    "question": "A firewall is used to:",
+    "options": [
+      "Monitor and control network traffic",
+      "Create computer viruses",
+      "Store user passwords",
+      "Increase CPU speed"
+    ],
+    "answer": "Monitor and control network traffic"
+  },
+  {
+    "question": "A firewall decides whether to allow or block traffic based on:",
+    "options": [
+      "Security rules",
+      "Screen size",
+      "User age",
+      "Computer brand"
+    ],
+    "answer": "Security rules"
+  },
+  {
+    "question": "Which information can a firewall inspect?",
+    "options": [
+      "IP addresses, ports, and protocols",
+      "Keyboard layout only",
+      "Monitor brightness",
+      "User hobbies"
+    ],
+    "answer": "IP addresses, ports, and protocols"
+  },
+  {
+    "question": "Packet filtering firewall mainly examines:",
+    "options": [
+      "Individual network packets",
+      "User fingerprints",
+      "File contents only",
+      "Application source code"
+    ],
+    "answer": "Individual network packets"
+  },
+  {
+    "question": "A stateful firewall keeps track of:",
+    "options": [
+      "Active network connections",
+      "User passwords",
+      "Computer temperature",
+      "Installed applications only"
+    ],
+    "answer": "Active network connections"
+  },
+  {
+    "question": "A proxy firewall works as:",
+    "options": [
+      "An intermediary between users and external networks",
+      "A type of malware",
+      "A password manager",
+      "A database server"
+    ],
+    "answer": "An intermediary between users and external networks"
+  },
+  {
+    "question": "A Next Generation Firewall (NGFW) provides:",
+    "options": [
+      "Advanced inspection and application-level security features",
+      "Only basic packet filtering",
+      "No traffic monitoring",
+      "Only physical protection"
+    ],
+    "answer": "Advanced inspection and application-level security features"
+  },
+  {
+    "question": "A limitation of firewalls is:",
+    "options": [
+      "They cannot prevent all attacks such as social engineering",
+      "They cannot filter traffic",
+      "They cannot use rules",
+      "They cannot protect networks"
+    ],
+    "answer": "They cannot prevent all attacks such as social engineering"
+  },
+  {
+    "question": "IDS stands for:",
+    "options": [
+      "Intrusion Detection System",
+      "Internet Data Service",
+      "Internal Defense Software",
+      "Information Database System"
+    ],
+    "answer": "Intrusion Detection System"
+  },
+  {
+    "question": "The main function of an IDS is to:",
+    "options": [
+      "Detect suspicious activities and generate alerts",
+      "Automatically delete all files",
+      "Encrypt every message",
+      "Replace a firewall"
+    ],
+    "answer": "Detect suspicious activities and generate alerts"
+  },
+  {
+    "question": "An IDS usually:",
+    "options": [
+      "Detects and alerts but does not automatically block attacks",
+      "Always shuts down systems",
+      "Creates malware",
+      "Removes all users"
+    ],
+    "answer": "Detects and alerts but does not automatically block attacks"
+  },
+  {
+    "question": "Network-based IDS (NIDS) monitors:",
+    "options": [
+      "Network traffic",
+      "Only user passwords",
+      "Physical buildings",
+      "Computer screens"
+    ],
+    "answer": "Network traffic"
+  },
+  {
+    "question": "Host-based IDS (HIDS) monitors:",
+    "options": [
+      "Activities on an individual host system",
+      "Internet cables",
+      "Only routers",
+      "External websites"
+    ],
+    "answer": "Activities on an individual host system"
+  },
+  {
+    "question": "IPS stands for:",
+    "options": [
+      "Intrusion Prevention System",
+      "Internet Protection Service",
+      "Internal Password System",
+      "Information Processing Software"
+    ],
+    "answer": "Intrusion Prevention System"
+  },
+  {
+    "question": "The main difference between IDS and IPS is:",
+    "options": [
+      "IPS can detect and automatically prevent attacks",
+      "IDS encrypts data while IPS does not",
+      "IDS replaces authentication",
+      "IPS cannot detect attacks"
+    ],
+    "answer": "IPS can detect and automatically prevent attacks"
+  },
+  {
+    "question": "Which security tool can both detect and block attacks?",
+    "options": [
+      "IPS",
+      "IDS",
+      "Password manager",
+      "Backup system"
+    ],
+    "answer": "IPS"
+  },
+  {
+    "question": "SNORT is:",
+    "options": [
+      "An open-source intrusion detection and prevention tool",
+      "A type of malware",
+      "An encryption algorithm",
+      "A web browser"
+    ],
+    "answer": "An open-source intrusion detection and prevention tool"
+  },
+  {
+    "question": "SNORT analyzes:",
+    "options": [
+      "Network traffic packets",
+      "Only image files",
+      "User fingerprints",
+      "Computer hardware"
+    ],
+    "answer": "Network traffic packets"
+  },
+  {
+    "question": "Denial of Service (DoS) attack attempts to:",
+    "options": [
+      "Make a service unavailable to legitimate users",
+      "Improve system performance",
+      "Encrypt passwords",
+      "Create backups"
+    ],
+    "answer": "Make a service unavailable to legitimate users"
+  },
+  {
+    "question": "A DoS attack usually originates from:",
+    "options": [
+      "A single attacking source",
+      "Thousands of unrelated sources",
+      "A firewall",
+      "A backup server"
+    ],
+    "answer": "A single attacking source"
+  },
+  {
+    "question": "DDoS stands for:",
+    "options": [
+      "Distributed Denial of Service",
+      "Digital Data Operating System",
+      "Distributed Database Security",
+      "Dynamic Defense Operation System"
+    ],
+    "answer": "Distributed Denial of Service"
+  },
+  {
+    "question": "The main difference between DoS and DDoS is:",
+    "options": [
+      "DDoS uses multiple attacking sources",
+      "DoS uses encryption",
+      "DDoS is always harmless",
+      "DoS requires a firewall"
+    ],
+    "answer": "DDoS uses multiple attacking sources"
+  },
+  {
+    "question": "A botnet is commonly used in:",
+    "options": [
+      "DDoS attacks",
+      "Data encryption",
+      "Password creation",
+      "Software updates"
+    ],
+    "answer": "DDoS attacks"
+  },
+  {
+    "question": "A SYN Flood attack exploits:",
+    "options": [
+      "The TCP three-way handshake process",
+      "Password hashing",
+      "File compression",
+      "Biometric authentication"
+    ],
+    "answer": "The TCP three-way handshake process"
+  },
+  {
+    "question": "During a SYN Flood attack, attackers:",
+    "options": [
+      "Send many SYN requests without completing connections",
+      "Send valid passwords repeatedly",
+      "Encrypt network traffic",
+      "Update server software"
+    ],
+    "answer": "Send many SYN requests without completing connections"
+  },
+  {
+    "question": "A VPN provides:",
+    "options": [
+      "A secure encrypted connection over an untrusted network",
+      "A method to create viruses",
+      "A replacement for passwords",
+      "A physical security system"
+    ],
+    "answer": "A secure encrypted connection over an untrusted network"
+  },
+  {
+    "question": "Encryption in VPN mainly provides:",
+    "options": [
+      "Confidentiality of transmitted data",
+      "Faster internet speed",
+      "More storage space",
+      "Automatic hardware repair"
+    ],
+    "answer": "Confidentiality of transmitted data"
+  },
+  {
+    "question": "Authentication is the process of:",
+    "options": [
+      "Verifying the identity of a user",
+      "Giving permissions to users",
+      "Encrypting files",
+      "Creating backups"
+    ],
+    "answer": "Verifying the identity of a user"
+  },
+  {
+    "question": "Authorization is the process of:",
+    "options": [
+      "Determining what resources a user can access",
+      "Verifying user identity",
+      "Creating passwords",
+      "Detecting malware"
+    ],
+    "answer": "Determining what resources a user can access"
+  },
+  {
+    "question": "Which statement correctly describes authentication and authorization?",
+    "options": [
+      "Authentication verifies identity, authorization determines permissions",
+      "Authentication gives permissions, authorization verifies identity",
+      "Both mean exactly the same thing",
+      "Neither relates to security"
+    ],
+    "answer": "Authentication verifies identity, authorization determines permissions"
+  },
+  {
+    "question": "The three main authentication factors are:",
+    "options": [
+      "Something you know, something you have, something you are",
+      "Hardware, software, network",
+      "Input, output, storage",
+      "Password, firewall, antivirus"
+    ],
+    "answer": "Something you know, something you have, something you are"
+  },
+  {
+    "question": "A password is an example of:",
+    "options": [
+      "Something you know",
+      "Something you have",
+      "Something you are",
+      "Something you download"
+    ],
+    "answer": "Something you know"
+  },
+  {
+    "question": "A security token is an example of:",
+    "options": [
+      "Something you have",
+      "Something you know",
+      "Something you are",
+      "Something you install"
+    ],
+    "answer": "Something you have"
+  },
+  {
+    "question": "A fingerprint is an example of:",
+    "options": [
+      "Something you are",
+      "Something you know",
+      "Something you have",
+      "Something you create"
+    ],
+    "answer": "Something you are"
+  },
+  {
+    "question": "Password authentication is based on:",
+    "options": [
+      "A secret value known by the user",
+      "Physical location only",
+      "Network speed",
+      "Computer hardware"
+    ],
+    "answer": "A secret value known by the user"
+  },
+  {
+    "question": "A strong password should contain:",
+    "options": [
+      "A combination of letters, numbers, and special characters",
+      "Only the user's name",
+      "Only numbers",
+      "A short common word"
+    ],
+    "answer": "A combination of letters, numbers, and special characters"
+  },
+  {
+    "question": "Password reuse is dangerous because:",
+    "options": [
+      "One compromised password can affect multiple accounts",
+      "It increases encryption strength",
+      "It improves security",
+      "It prevents attacks"
+    ],
+    "answer": "One compromised password can affect multiple accounts"
+  },
+  {
+    "question": "A brute force attack attempts to:",
+    "options": [
+      "Try many possible password combinations",
+      "Create firewall rules",
+      "Encrypt network traffic",
+      "Scan physical buildings"
+    ],
+    "answer": "Try many possible password combinations"
+  },
+  {
+    "question": "A dictionary attack uses:",
+    "options": [
+      "A list of common words and passwords",
+      "Random hardware devices",
+      "Firewall configurations",
+      "Network cables"
+    ],
+    "answer": "A list of common words and passwords"
+  },
+  {
+    "question": "Password hashing is used because:",
+    "options": [
+      "Original passwords are not stored directly",
+      "Passwords become shorter",
+      "Users do not need passwords",
+      "It increases internet speed"
+    ],
+    "answer": "Original passwords are not stored directly"
+  },
+  {
+    "question": "Multi-Factor Authentication (MFA) requires:",
+    "options": [
+      "Two or more different authentication factors",
+      "Only a username",
+      "Only a password",
+      "Only biometric data"
+    ],
+    "answer": "Two or more different authentication factors"
+  },
+  {
+    "question": "Which is an example of MFA?",
+    "options": [
+      "Password + fingerprint",
+      "Username only",
+      "Two passwords",
+      "Changing screen brightness"
+    ],
+    "answer": "Password + fingerprint"
+  },
+  {
+    "question": "The main advantage of MFA is:",
+    "options": [
+      "It provides additional security even if one factor is compromised",
+      "It removes all passwords",
+      "It disables authentication",
+      "It reduces security"
+    ],
+    "answer": "It provides additional security even if one factor is compromised"
+  },
+  {
+    "question": "Biometric authentication uses:",
+    "options": [
+      "Unique physical or behavioral characteristics",
+      "Only passwords",
+      "Network addresses",
+      "Encryption keys"
+    ],
+    "answer": "Unique physical or behavioral characteristics"
+  },
+  {
+    "question": "Which is an example of biometric authentication?",
+    "options": [
+      "Fingerprint scanning",
+      "Username",
+      "PIN number",
+      "Security question"
+    ],
+    "answer": "Fingerprint scanning"
+  },
+  {
+    "question": "A disadvantage of biometric authentication is:",
+    "options": [
+      "Biometric data cannot easily be changed if compromised",
+      "It does not identify users",
+      "It requires no hardware",
+      "It cannot be used for security"
+    ],
+    "answer": "Biometric data cannot easily be changed if compromised"
+  },
+  {
+    "question": "TOTP stands for:",
+    "options": [
+      "Time-based One-Time Password",
+      "Temporary Online Transfer Protocol",
+      "Total Operating Protection",
+      "Trusted Open Password"
+    ],
+    "answer": "Time-based One-Time Password"
+  },
+  {
+    "question": "TOTP generates:",
+    "options": [
+      "A temporary password that changes periodically",
+      "A permanent password",
+      "A firewall rule",
+      "A network address"
+    ],
+    "answer": "A temporary password that changes periodically"
+  },
+  {
+    "question": "Access Control is used to:",
+    "options": [
+      "Control who can access resources and what actions they can perform",
+      "Create malware",
+      "Increase CPU speed",
+      "Compress files"
+    ],
+    "answer": "Control who can access resources and what actions they can perform"
+  },
+  {
+    "question": "The principle of least privilege means:",
+    "options": [
+      "Users should receive only the minimum permissions required",
+      "All users should have administrator access",
+      "Nobody should access systems",
+      "Passwords should not be used"
+    ],
+    "answer": "Users should receive only the minimum permissions required"
+  },
+  {
+    "question": "DAC stands for:",
+    "options": [
+      "Discretionary Access Control",
+      "Digital Access Certificate",
+      "Distributed Authentication Control",
+      "Data Authorization Center"
+    ],
+    "answer": "Discretionary Access Control"
+  },
+  {
+    "question": "In DAC, access permissions are controlled by:",
+    "options": [
+      "The resource owner",
+      "The government",
+      "The operating system only",
+      "Attackers"
+    ],
+    "answer": "The resource owner"
+  },
+  {
+    "question": "A major characteristic of DAC is:",
+    "options": [
+      "Owners can decide who can access their resources",
+      "Users cannot share permissions",
+      "All access is permanently fixed",
+      "There are no permissions"
+    ],
+    "answer": "Owners can decide who can access their resources"
+  },
+  {
+    "question": "MAC stands for:",
+    "options": [
+      "Mandatory Access Control",
+      "Managed Account Control",
+      "Machine Access Connection",
+      "Multiple Authentication Control"
+    ],
+    "answer": "Mandatory Access Control"
+  },
+  {
+    "question": "In MAC, access decisions are based on:",
+    "options": [
+      "Security labels and predefined policies",
+      "User preference only",
+      "Password length",
+      "Computer brand"
+    ],
+    "answer": "Security labels and predefined policies"
+  },
+  {
+    "question": "MAC is commonly used in:",
+    "options": [
+      "Military and high-security environments",
+      "Personal computers only",
+      "Gaming applications",
+      "Social media websites"
+    ],
+    "answer": "Military and high-security environments"
+  },
+  {
+    "question": "RBAC stands for:",
+    "options": [
+      "Role-Based Access Control",
+      "Remote Backup Access Control",
+      "Random Browser Access Control",
+      "Rule Backup Authentication Control"
+    ],
+    "answer": "Role-Based Access Control"
+  },
+  {
+    "question": "RBAC grants permissions based on:",
+    "options": [
+      "User roles within an organization",
+      "Computer speed",
+      "Physical location only",
+      "Internet provider"
+    ],
+    "answer": "User roles within an organization"
+  },
+  {
+    "question": "An example of RBAC is:",
+    "options": [
+      "Managers can approve reports while employees can only view them",
+      "Everyone has full access",
+      "No one can access files",
+      "Access depends on screen size"
+    ],
+    "answer": "Managers can approve reports while employees can only view them"
+  },
+  {
+    "question": "Rule-Based Access Control uses:",
+    "options": [
+      "Predefined rules to control access",
+      "User ownership only",
+      "Fingerprints only",
+      "Random permissions"
+    ],
+    "answer": "Predefined rules to control access"
+  },
+  {
+    "question": "An ACL (Access Control List) contains:",
+    "options": [
+      "Permissions assigned to users or groups",
+      "Encryption algorithms",
+      "Network cables",
+      "Virus definitions"
+    ],
+    "answer": "Permissions assigned to users or groups"
+  },
+  {
+    "question": "A capability list contains:",
+    "options": [
+      "Objects and the access rights a user possesses",
+      "Only passwords",
+      "Only firewall rules",
+      "Only malware information"
+    ],
+    "answer": "Objects and the access rights a user possesses"
+  },
+  {
+    "question": "A security policy is:",
+    "options": [
+      "A set of rules and guidelines for protecting information assets",
+      "A type of malware",
+      "A network cable standard",
+      "An encryption algorithm"
+    ],
+    "answer": "A set of rules and guidelines for protecting information assets"
+  },
+  {
+    "question": "The main purpose of a security policy is to:",
+    "options": [
+      "Define acceptable security practices within an organization",
+      "Increase computer performance",
+      "Create viruses",
+      "Remove all users"
+    ],
+    "answer": "Define acceptable security practices within an organization"
+  },
+  {
+    "question": "An Acceptable Use Policy (AUP) defines:",
+    "options": [
+      "How users are allowed to use organizational resources",
+      "How encryption works",
+      "How networks are physically built",
+      "How malware is created"
+    ],
+    "answer": "How users are allowed to use organizational resources"
+  },
+  {
+    "question": "A password policy defines:",
+    "options": [
+      "Rules for creating and managing passwords",
+      "Network routing methods",
+      "Hardware installation steps",
+      "Software programming rules"
+    ],
+    "answer": "Rules for creating and managing passwords"
+  },
+  {
+    "question": "ISO 27001 is a standard related to:",
+    "options": [
+      "Information Security Management Systems (ISMS)",
+      "Computer hardware manufacturing",
+      "Programming languages",
+      "Internet speed improvement"
+    ],
+    "answer": "Information Security Management Systems (ISMS)"
+  },
+  {
+    "question": "ISMS stands for:",
+    "options": [
+      "Information Security Management System",
+      "Internet Security Monitoring Service",
+      "Internal Software Management System",
+      "Information Storage Machine System"
+    ],
+    "answer": "Information Security Management System"
+  },
+  {
+    "question": "The main goal of ISO 27001 is:",
+    "options": [
+      "Managing and protecting information security risks",
+      "Creating computer applications",
+      "Increasing storage capacity",
+      "Replacing antivirus software"
+    ],
+    "answer": "Managing and protecting information security risks"
+  },
+  {
+    "question": "ISO 27001 follows a:",
+    "options": [
+      "Risk-based approach",
+      "Hardware-based approach",
+      "Programming-only approach",
+      "No security approach"
+    ],
+    "answer": "Risk-based approach"
+  },
+  {
+    "question": "An organization certified with ISO 27001 demonstrates:",
+    "options": [
+      "It follows a recognized information security management standard",
+      "It has no security risks",
+      "It does not need security controls",
+      "It cannot be attacked"
+    ],
+    "answer": "It follows a recognized information security management standard"
+  },
+  {
+    "question": "NIST CSF is:",
+    "options": [
+      "A cybersecurity risk management framework",
+      "An encryption algorithm",
+      "A malware scanner",
+      "A programming framework"
+    ],
+    "answer": "A cybersecurity risk management framework"
+  },
+  {
+    "question": "NIST Cybersecurity Framework contains how many core functions?",
+    "options": [
+      "Five",
+      "Three",
+      "Ten",
+      "Two"
+    ],
+    "answer": "Five"
+  },
+  {
+    "question": "The five NIST CSF functions are:",
+    "options": [
+      "Identify, Protect, Detect, Respond, Recover",
+      "Install, Configure, Delete, Restart, Backup",
+      "Login, Encrypt, Send, Receive, Delete",
+      "Plan, Code, Test, Deploy, Remove"
+    ],
+    "answer": "Identify, Protect, Detect, Respond, Recover"
+  },
+  {
+    "question": "The Identify function of NIST CSF focuses on:",
+    "options": [
+      "Understanding assets, risks, and security environment",
+      "Recovering damaged systems",
+      "Blocking all users",
+      "Deleting data"
+    ],
+    "answer": "Understanding assets, risks, and security environment"
+  },
+  {
+    "question": "The Protect function of NIST CSF focuses on:",
+    "options": [
+      "Implementing safeguards to protect assets",
+      "Finding attackers",
+      "Restoring backups",
+      "Reporting incidents only"
+    ],
+    "answer": "Implementing safeguards to protect assets"
+  },
+  {
+    "question": "The Detect function of NIST CSF focuses on:",
+    "options": [
+      "Identifying cybersecurity events",
+      "Creating passwords",
+      "Installing hardware",
+      "Deleting logs"
+    ],
+    "answer": "Identifying cybersecurity events"
+  },
+  {
+    "question": "The Respond function of NIST CSF focuses on:",
+    "options": [
+      "Taking action after detecting a security incident",
+      "Creating vulnerabilities",
+      "Classifying users",
+      "Encrypting every file"
+    ],
+    "answer": "Taking action after detecting a security incident"
+  },
+  {
+    "question": "The Recover function of NIST CSF focuses on:",
+    "options": [
+      "Restoring services after an incident",
+      "Launching attacks",
+      "Creating malware",
+      "Removing authentication"
+    ],
+    "answer": "Restoring services after an incident"
+  },
+  {
+    "question": "GDPR is related to:",
+    "options": [
+      "Protection of personal data and privacy",
+      "Network performance",
+      "Encryption algorithms",
+      "Hardware security"
+    ],
+    "answer": "Protection of personal data and privacy"
+  },
+  {
+    "question": "GDPR stands for:",
+    "options": [
+      "General Data Protection Regulation",
+      "Global Digital Privacy Rule",
+      "General Database Protection Resource",
+      "Government Data Processing Rule"
+    ],
+    "answer": "General Data Protection Regulation"
+  },
+  {
+    "question": "Personal data includes:",
+    "options": [
+      "Information that can identify an individual",
+      "Only computer programs",
+      "Only network addresses",
+      "Only encrypted files"
+    ],
+    "answer": "Information that can identify an individual"
+  },
+  {
+    "question": "The GDPR principle of data minimization means:",
+    "options": [
+      "Collect only the data necessary for a specific purpose",
+      "Collect all available data",
+      "Delete all data immediately",
+      "Share data publicly"
+    ],
+    "answer": "Collect only the data necessary for a specific purpose"
+  },
+  {
+    "question": "The GDPR right to access allows users to:",
+    "options": [
+      "Request information about their stored personal data",
+      "Access any company's systems",
+      "Delete all internet data",
+      "Avoid authentication"
+    ],
+    "answer": "Request information about their stored personal data"
+  },
+  {
+    "question": "Risk assessment is the process of:",
+    "options": [
+      "Identifying and evaluating security risks",
+      "Creating malware",
+      "Increasing storage space",
+      "Installing applications"
+    ],
+    "answer": "Identifying and evaluating security risks"
+  },
+  {
+    "question": "The first step in risk assessment is usually:",
+    "options": [
+      "Identifying assets",
+      "Deleting data",
+      "Launching attacks",
+      "Changing passwords"
+    ],
+    "answer": "Identifying assets"
+  },
+  {
+    "question": "Asset classification is used to:",
+    "options": [
+      "Categorize assets based on importance and sensitivity",
+      "Delete old files",
+      "Create users",
+      "Increase network speed"
+    ],
+    "answer": "Categorize assets based on importance and sensitivity"
+  },
+  {
+    "question": "Which is an example of a highly confidential asset?",
+    "options": [
+      "Bank customer credentials",
+      "Public company website",
+      "Company logo",
+      "Public advertisement"
+    ],
+    "answer": "Bank customer credentials"
+  },
+  {
+    "question": "Risk level is commonly determined by:",
+    "options": [
+      "Likelihood and impact",
+      "Computer brand and color",
+      "User age and location",
+      "File size only"
+    ],
+    "answer": "Likelihood and impact"
+  },
+  {
+    "question": "Risk mitigation means:",
+    "options": [
+      "Reducing the probability or impact of a risk",
+      "Ignoring all risks",
+      "Creating new vulnerabilities",
+      "Removing all systems"
+    ],
+    "answer": "Reducing the probability or impact of a risk"
+  },
+  {
+    "question": "Risk avoidance means:",
+    "options": [
+      "Removing the activity that creates the risk",
+      "Accepting every risk",
+      "Increasing vulnerabilities",
+      "Sharing passwords"
+    ],
+    "answer": "Removing the activity that creates the risk"
+  },
+  {
+    "question": "Risk transfer means:",
+    "options": [
+      "Moving the responsibility of risk to another party",
+      "Deleting all risks",
+      "Increasing attacks",
+      "Removing security controls"
+    ],
+    "answer": "Moving the responsibility of risk to another party"
+  },
+  {
+    "question": "A security control is:",
+    "options": [
+      "A measure implemented to reduce security risks",
+      "A type of malware",
+      "A programming error",
+      "A network attack"
+    ],
+    "answer": "A measure implemented to reduce security risks"
+  },
+  {
+    "question": "A firewall is an example of:",
+    "options": [
+      "Preventive control",
+      "Corrective control only",
+      "Administrative error",
+      "Threat vector"
+    ],
+    "answer": "Preventive control"
+  },
+  {
+    "question": "Backup restoration is an example of:",
+    "options": [
+      "Corrective control",
+      "Preventive control",
+      "Threat",
+      "Vulnerability"
+    ],
+    "answer": "Corrective control"
+  },
+  {
+    "question": "Disaster Recovery focuses on:",
+    "options": [
+      "Restoring IT systems after a major incident",
+      "Creating attacks",
+      "Removing all security policies",
+      "Increasing malware"
+    ],
+    "answer": "Restoring IT systems after a major incident"
+  },
+  {
+    "question": "RPO (Recovery Point Objective) defines:",
+    "options": [
+      "Acceptable amount of data loss after a disaster",
+      "Time required to detect malware",
+      "Number of users in a system",
+      "Password complexity"
+    ],
+    "answer": "Acceptable amount of data loss after a disaster"
+  },
+  {
+    "question": "RTO (Recovery Time Objective) defines:",
+    "options": [
+      "Maximum acceptable time to restore a service",
+      "Amount of data stored",
+      "Number of backups",
+      "Encryption strength"
+    ],
+    "answer": "Maximum acceptable time to restore a service"
+  },
+  {
+    "question": "SIEM stands for:",
+    "options": [
+      "Security Information and Event Management",
+      "System Internet Encryption Method",
+      "Secure Internal Email Management",
+      "Software Installation Event Manager"
+    ],
+    "answer": "Security Information and Event Management"
+  },
+  {
+    "question": "SIEM systems collect and analyze:",
+    "options": [
+      "Security logs and events",
+      "Only user passwords",
+      "Only hardware information",
+      "Only application designs"
+    ],
+    "answer": "Security logs and events"
+  },
+  {
+    "question": "A zero-day vulnerability is:",
+    "options": [
+      "A vulnerability unknown to the vendor or without an available patch",
+      "A completely secure system",
+      "A type of firewall",
+      "A backup method"
+    ],
+    "answer": "A vulnerability unknown to the vendor or without an available patch"
+  },
+  {
+    "question": "Ethical hacking is:",
+    "options": [
+      "Authorized security testing performed to identify vulnerabilities",
+      "Illegal access to systems",
+      "Creating computer viruses",
+      "Stealing confidential information"
+    ],
+    "answer": "Authorized security testing performed to identify vulnerabilities"
+  },
+  {
+    "question": "The main purpose of ethical hacking is to:",
+    "options": [
+      "Find and fix security weaknesses before attackers exploit them",
+      "Damage computer systems",
+      "Steal user information",
+      "Disable networks permanently"
+    ],
+    "answer": "Find and fix security weaknesses before attackers exploit them"
+  },
+  {
+    "question": "An ethical hacker must have:",
+    "options": [
+      "Permission from the system owner",
+      "A stolen password",
+      "Malware tools only",
+      "Unauthorized access"
+    ],
+    "answer": "Permission from the system owner"
+  },
+  {
+    "question": "A hacker who performs malicious activities for personal gain is called:",
+    "options": [
+      "Black Hat Hacker",
+      "White Hat Hacker",
+      "Security Analyst",
+      "Blue Team Member"
+    ],
+    "answer": "Black Hat Hacker"
+  },
+  {
+    "question": "A White Hat Hacker is also known as:",
+    "options": [
+      "Ethical Hacker",
+      "Cyber Criminal",
+      "Malware Developer",
+      "Attacker"
+    ],
+    "answer": "Ethical Hacker"
+  },
+  {
+    "question": "A Gray Hat Hacker:",
+    "options": [
+      "May discover vulnerabilities without permission but usually does not have malicious intent",
+      "Always performs legal security tests",
+      "Only creates malware",
+      "Never finds vulnerabilities"
+    ],
+    "answer": "May discover vulnerabilities without permission but usually does not have malicious intent"
+  },
+  {
+    "question": "Black Hat hackers usually aim to:",
+    "options": [
+      "Steal data, money, or cause damage",
+      "Improve security",
+      "Help organizations",
+      "Create security policies"
+    ],
+    "answer": "Steal data, money, or cause damage"
+  },
+  {
+    "question": "A Red Team focuses on:",
+    "options": [
+      "Simulating attacks against an organization",
+      "Managing employee salaries",
+      "Creating user accounts",
+      "Replacing hardware"
+    ],
+    "answer": "Simulating attacks against an organization"
+  },
+  {
+    "question": "A Blue Team focuses on:",
+    "options": [
+      "Defending systems against cyber attacks",
+      "Launching attacks",
+      "Creating vulnerabilities",
+      "Stealing information"
+    ],
+    "answer": "Defending systems against cyber attacks"
+  },
+  {
+    "question": "A Purple Team is a combination of:",
+    "options": [
+      "Red Team and Blue Team activities",
+      "Firewall and antivirus",
+      "Hardware and software",
+      "Encryption and hashing"
+    ],
+    "answer": "Red Team and Blue Team activities"
+  },
+  {
+    "question": "The main goal of a Purple Team approach is:",
+    "options": [
+      "Improve security through collaboration between attackers and defenders",
+      "Create more attacks",
+      "Remove security monitoring",
+      "Disable security tools"
+    ],
+    "answer": "Improve security through collaboration between attackers and defenders"
+  },
+  {
+    "question": "Penetration testing is:",
+    "options": [
+      "A simulated attack used to identify security weaknesses",
+      "A method to create malware",
+      "A backup technique",
+      "A password management method"
+    ],
+    "answer": "A simulated attack used to identify security weaknesses"
+  },
+  {
+    "question": "The first phase of penetration testing is usually:",
+    "options": [
+      "Planning and reconnaissance",
+      "Deleting systems",
+      "Installing malware",
+      "Changing passwords"
+    ],
+    "answer": "Planning and reconnaissance"
+  },
+  {
+    "question": "Reconnaissance in ethical hacking means:",
+    "options": [
+      "Collecting information about the target system",
+      "Destroying data",
+      "Blocking network traffic",
+      "Creating user accounts"
+    ],
+    "answer": "Collecting information about the target system"
+  },
+  {
+    "question": "Vulnerability scanning is performed to:",
+    "options": [
+      "Identify security weaknesses in systems",
+      "Increase internet speed",
+      "Create backups",
+      "Encrypt files"
+    ],
+    "answer": "Identify security weaknesses in systems"
+  },
+  {
+    "question": "The final step of penetration testing is usually:",
+    "options": [
+      "Reporting findings and recommendations",
+      "Deleting the target system",
+      "Installing malware",
+      "Changing hardware"
+    ],
+    "answer": "Reporting findings and recommendations"
+  },
+  {
+    "question": "A penetration testing report should include:",
+    "options": [
+      "Identified vulnerabilities and recommended fixes",
+      "Only usernames",
+      "Only passwords",
+      "Random information"
+    ],
+    "answer": "Identified vulnerabilities and recommended fixes"
+  },
+  {
+    "question": "Black Box testing means:",
+    "options": [
+      "The tester has no prior knowledge of the system",
+      "The tester has complete system knowledge",
+      "The system is physically damaged",
+      "The test is performed without permission"
+    ],
+    "answer": "The tester has no prior knowledge of the system"
+  },
+  {
+    "question": "White Box testing means:",
+    "options": [
+      "The tester has complete knowledge of the system",
+      "The tester has no information",
+      "Only physical security is tested",
+      "No testing is performed"
+    ],
+    "answer": "The tester has complete knowledge of the system"
+  },
+  {
+    "question": "Gray Box testing means:",
+    "options": [
+      "The tester has partial knowledge of the system",
+      "The tester has no knowledge",
+      "The system cannot be tested",
+      "Only hardware is tested"
+    ],
+    "answer": "The tester has partial knowledge of the system"
+  },
+  {
+    "question": "Google Hacking or Google Dorking is:",
+    "options": [
+      "Using advanced search techniques to find publicly available information",
+      "Creating a Google account",
+      "Blocking Google services",
+      "Encrypting Google searches"
+    ],
+    "answer": "Using advanced search techniques to find publicly available information"
+  },
+  {
+    "question": "Ethical hackers use Google Dorking mainly for:",
+    "options": [
+      "Information gathering during security assessments",
+      "Deleting websites",
+      "Creating malware",
+      "Breaking encryption"
+    ],
+    "answer": "Information gathering during security assessments"
+  },
+  {
+    "question": "Nmap is commonly used for:",
+    "options": [
+      "Network scanning and discovering open ports",
+      "Creating passwords",
+      "Encrypting files",
+      "Managing databases"
+    ],
+    "answer": "Network scanning and discovering open ports"
+  },
+  {
+    "question": "Wireshark is used for:",
+    "options": [
+      "Capturing and analyzing network packets",
+      "Creating firewalls",
+      "Managing users",
+      "Encrypting passwords"
+    ],
+    "answer": "Capturing and analyzing network packets"
+  },
+  {
+    "question": "Metasploit is:",
+    "options": [
+      "A penetration testing framework",
+      "A firewall device",
+      "An antivirus program",
+      "A password manager"
+    ],
+    "answer": "A penetration testing framework"
+  },
+  {
+    "question": "Burp Suite is commonly used for:",
+    "options": [
+      "Web application security testing",
+      "Network cable installation",
+      "Creating operating systems",
+      "Data backup"
+    ],
+    "answer": "Web application security testing"
+  },
+  {
+    "question": "Defense in Depth means:",
+    "options": [
+      "Using multiple layers of security controls",
+      "Using only one security tool",
+      "Removing all security systems",
+      "Ignoring vulnerabilities"
+    ],
+    "answer": "Using multiple layers of security controls"
+  },
+  {
+    "question": "The principle of least privilege improves security by:",
+    "options": [
+      "Giving users only the permissions they need",
+      "Giving everyone administrator access",
+      "Removing authentication",
+      "Allowing unlimited access"
+    ],
+    "answer": "Giving users only the permissions they need"
+  },
+  {
+    "question": "Which security principle ensures users cannot deny performing an action?",
+    "options": [
+      "Non-repudiation",
+      "Availability",
+      "Confidentiality",
+      "Authentication"
+    ],
+    "answer": "Non-repudiation"
+  },
+  {
+    "question": "Which technology protects communication over public networks?",
+    "options": [
+      "VPN",
+      "Adware",
+      "Rootkit",
+      "Logic Bomb"
+    ],
+    "answer": "VPN"
+  },
+  {
+    "question": "Which attack attempts to overwhelm a service with excessive traffic?",
+    "options": [
+      "DDoS",
+      "Phishing",
+      "Hashing",
+      "Steganography"
+    ],
+    "answer": "DDoS"
+  },
+  {
+    "question": "Which security mechanism converts data into an unreadable format?",
+    "options": [
+      "Encryption",
+      "Authentication",
+      "Authorization",
+      "Classification"
+    ],
+    "answer": "Encryption"
+  },
+  {
+    "question": "Which technology verifies data integrity using a fixed-length output?",
+    "options": [
+      "Hashing",
+      "Firewall",
+      "VPN",
+      "MFA"
+    ],
+    "answer": "Hashing"
+  },
+  {
+    "question": "Which technology hides secret information inside another file?",
+    "options": [
+      "Steganography",
+      "Encryption",
+      "Authentication",
+      "Authorization"
+    ],
+    "answer": "Steganography"
+  },
+  {
+    "question": "Which access control model gives permissions based on job roles?",
+    "options": [
+      "RBAC",
+      "DAC",
+      "MAC",
+      "ACL"
+    ],
+    "answer": "RBAC"
+  },
+  {
+    "question": "Which access control model allows resource owners to decide permissions?",
+    "options": [
+      "DAC",
+      "MAC",
+      "RBAC",
+      "Rule-Based Access Control"
+    ],
+    "answer": "DAC"
+  },
+  {
+    "question": "Which access control model uses security classifications and labels?",
+    "options": [
+      "MAC",
+      "DAC",
+      "RBAC",
+      "Capability List"
+    ],
+    "answer": "MAC"
+  },
+  {
+    "question": "Which security framework includes Identify, Protect, Detect, Respond, Recover?",
+    "options": [
+      "NIST CSF",
+      "GDPR",
+      "ISO 27001",
+      "AES"
+    ],
+    "answer": "NIST CSF"
+  },
+  {
+    "question": "Which standard focuses on Information Security Management Systems?",
+    "options": [
+      "ISO 27001",
+      "SNORT",
+      "RSA",
+      "TOTP"
+    ],
+    "answer": "ISO 27001"
+  }
+]
